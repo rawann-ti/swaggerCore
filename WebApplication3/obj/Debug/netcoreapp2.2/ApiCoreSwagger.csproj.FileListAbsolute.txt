@@ -1,0 +1,14 @@
+C:\Users\rsilva\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\ApiCoreSwagger.deps.json
+C:\Users\rsilva\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\ApiCoreSwagger.runtimeconfig.json
+C:\Users\rsilva\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\ApiCoreSwagger.runtimeconfig.dev.json
+C:\Users\rsilva\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\ApiCoreSwagger.dll
+C:\Users\rsilva\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\ApiCoreSwagger.pdb
+C:\Users\rsilva\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\ApiCoreSwagger.csprojAssemblyReference.cache
+C:\Users\rsilva\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\ApiCoreSwagger.csproj.CoreCompileInputs.cache
+C:\Users\rsilva\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\ApiCoreSwagger.RazorAssemblyInfo.cache
+C:\Users\rsilva\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\ApiCoreSwagger.RazorAssemblyInfo.cs
+C:\Users\rsilva\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\ApiCoreSwagger.AssemblyInfoInputs.cache
+C:\Users\rsilva\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\ApiCoreSwagger.AssemblyInfo.cs
+C:\Users\rsilva\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\ApiCoreSwagger.RazorTargetAssemblyInfo.cache
+C:\Users\rsilva\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\ApiCoreSwagger.dll
+C:\Users\rsilva\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\ApiCoreSwagger.pdb
