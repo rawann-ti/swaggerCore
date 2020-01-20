@@ -1,2 +1,2 @@
 # swaggerCore
-Documento uma webapicore com o swagger
+Documentando uma webapicore com o swagger
